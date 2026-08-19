@@ -4,7 +4,7 @@
 
 ## Overview
 
-This project analyzes sales performance, profitability, customer segments, product performance, and operational efficiency using the Superstore dataset.
+This project analyzes sales performance, profitability, customer segments, product performance, and operational efficiency using the Superstore dataset from Kaggle.
 
 The analysis follows an end-to-end business analytics workflow:
 
