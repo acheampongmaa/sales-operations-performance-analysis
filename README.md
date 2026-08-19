@@ -151,6 +151,9 @@ The dashboard includes:
 
 ---
 
+<img width="1139" height="637" alt="image" src="https://github.com/user-attachments/assets/fde6f502-e10c-4c96-8971-c1d41c3c13f9" />
+
+
 ## Key Findings
 
 The analysis identified several areas requiring management attention.
